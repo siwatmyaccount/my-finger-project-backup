@@ -10,7 +10,12 @@ Build: `stable-last-crop-v5`
 
 ชุดติดตั้งเตรียมไว้สำหรับ Raspberry Pi OS แบบ Desktop 64-bit (`aarch64`) และกล้องที่ระบบมองเห็นเป็น `/dev/video0` ต้องมีอินเทอร์เน็ตตอนติดตั้ง เปิดโปรแกรมจาก Terminal บนหน้าจอ Pi เพื่อให้แสดง GUI ได้
 
-Repository นี้เป็น Private ผู้ดาวน์โหลดต้องมีสิทธิ์เข้าถึงและยืนยันตัวตน GitHub ก่อน clone หรือเลือก Code → Download ZIP หลังเข้าสู่ระบบ
+Repository นี้เป็น Public ทุกคนเปิดดูและดาวน์โหลดได้โดยไม่ต้องเข้าสู่ระบบ
+
+- ลิงก์แชร์โครงการ: https://github.com/siwatmyaccount/my-finger-project-backup
+- ดาวน์โหลด ZIP: https://github.com/siwatmyaccount/my-finger-project-backup/archive/refs/heads/main.zip
+
+คัดลอกลิงก์จากแถบที่อยู่ของเบราว์เซอร์เพื่อส่งต่อ หรือดาวน์โหลดผ่านปุ่ม Code → Download ZIP
 
 ```bash
 git clone https://github.com/siwatmyaccount/my-finger-project-backup.git

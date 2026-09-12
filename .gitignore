@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+tracking.log
+.DS_Store
+src_code/Anti-Finger.txt
+src_code/Anti-Finger.txt.bak
+src_code/Anti-Finger.json
+src_code/data/
+src_code/dist/
+src_code/build/

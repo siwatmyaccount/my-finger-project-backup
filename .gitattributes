@@ -1,0 +1,7 @@
+*.sh text eol=lf
+*.py -text
+*.tflite binary
+*.task binary
+*.png binary
+*.mp3 binary
+*.ttf binary

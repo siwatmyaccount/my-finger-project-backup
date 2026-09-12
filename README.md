@@ -1,4 +1,4 @@
-# my-finger-project-backup
+# my-finger-project-pi4 (backup)
 
 **เวอร์ชันเสถียรบน Raspberry Pi 4**  
 Build: `stable-last-crop-v5`  
